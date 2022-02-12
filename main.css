@@ -39,4 +39,5 @@
 .error{box-sizing:border-box;color:red;display:block;font-family:Inter,Arial,sans-serif;font-size:12px;line-height:1.25;margin:0 0 0 36px;max-width:358px;padding-top:5px}@media screen and (max-width:580px){.error{margin-left:22px;max-width:238 px}}
 .popup_opened{display:flex;opacity:1;visibility:visible}
 .popup__confirm-delete{background-color:#fff;border-radius:10px;display:flex;flex-direction:column;grid-area:c;margin:0 auto;min-height:181px;width:430px}@media screen and (max-width:580px){.popup__confirm-delete{width:282px}}
+.popup__input-button_confirm{margin-top:0}
 
