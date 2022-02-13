@@ -40,4 +40,6 @@
 .popup_opened{display:flex;opacity:1;visibility:visible}
 .popup__confirm-delete{background-color:#fff;border-radius:10px;display:flex;flex-direction:column;grid-area:c;margin:0 auto;min-height:181px;width:430px}@media screen and (max-width:580px){.popup__confirm-delete{width:282px}}
 .popup__input-button_confirm{margin-top:14px}
+.elements__like{margin:0;padding-top:22px}
+.elements__like-counter{font-family:Inter,Arial,sans-serif;font-size:13px;font-style:normal;font-weight:400;line-height:1.23;margin:0 0 0 8px}
 
